@@ -7,5 +7,5 @@ Coming soon....
 
 Dependencies
 ------------
-Tensorflow r0.12
-TF-Slim
+- Tensorflow r0.12
+- TF-Slim
